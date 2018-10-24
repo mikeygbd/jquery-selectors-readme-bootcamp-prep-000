@@ -1,4 +1,4 @@
 // declare your functions here...
-fucntion paragraphSelector(){
+function paragraphSelector(){
   return $('p');
 }
